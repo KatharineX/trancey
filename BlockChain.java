@@ -33,5 +33,7 @@ public class BlockChain{
 		
 		bc.printChain();
 		
+		System.out.println("A change");
+		
 		}
 } 
