@@ -1,2 +1,0 @@
-# trancey
-Blockchain Hackathon
